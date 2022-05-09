@@ -32,8 +32,8 @@
 
     <h2 class="text-center text-2xl my-9">Yol Tarifi</h2>
     <div class="text-center">
-    <a href="http://">Google Harita</a> | 
-        <a href="http://">Yandex Harita</a>  
+    <a href="https://goo.gl/maps/AE1dQXfiVT3xaydG6">Google Harita</a> | 
+        <a href="https://yandex.com.tr/harita/?um=constructor%3A54f51c5d51b89f21ea1836013e6ac4864438da4bd2c59f888e7aa233d4b8892f&source=constructorLink">Yandex Harita</a>  
     </div>
 
     <h2 class="text-center text-2xl my-9">İletişim Bilgilerimiz</h2>
@@ -43,7 +43,7 @@
         <a href="tel:+905320636676">0532 063 66 76</a>
     </p>
     <p  class="text-center">
-        <a href="mailto:info@edillidenizkamp.com">info@edillidenizcamp.com</a>
+        <a href="mailto:info@edillidenizkamp.com">info@edillidenizkamp.com</a>
     </p>
 
     <p class="text-center my-9">Aşağıdaki formu da kullanarak bize ulaşabilirsiniz.</p>
@@ -57,5 +57,7 @@
 </main>
 
 <svelte:head>
+    <title>Edilli Deniz Kamp & Karavan - Akçakoca | Düzce</title>
+    <meta name="description" content="Karadeniz incisi Akçakoca'nın eşsiz konumu Edilli'de doğanın tadını çıkarın. Şehirden uzak keyifli bir zaman.">
     <script src="https://yastatic.net/s3/frontend/forms/_/embed.js"></script>
 </svelte:head>
